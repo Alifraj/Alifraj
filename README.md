@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali Fraj</h1>
-<h3 align="center">Computer Science Student @ Ecole Polytechnique de Sousse | Full-Stack & Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Ali Frej</h1>
+<h3 align="center">Computer Engineering Student @ École Polytechnique de Sousse | Full-Stack Web & Python Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-fraj-173b9b450/" target="_blank">
@@ -13,10 +13,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science student at **Ecole Polytechnique de Sousse**, Tunisia.
-- 💻 Passionate about **Web Development**, **Databases**, and **2D Game Development**.
-- 🌱 Currently building full-stack applications with **Django** and exploring software architecture.
-- 🤝 Open to internships, collaborations, and exciting software projects.
+
+- 🎓 Computer Engineering student at **École Polytechnique de Sousse**, Tunisia.
+- 💻 Passionate about **Full-Stack Web Development**, **Relational Databases**, **Desktop Software**, and **2D Game Development**.
+- 🌱 Currently building scalable full-stack web applications with **Django** and exploring clean software architecture.
+- 🤝 Open to internships, technical collaborations, and software engineering projects.
 
 ---
 
@@ -39,22 +40,41 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-**Tools & Platforms**
+**Databases & Tools**
 <p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- **DjangoGEST:** Full-stack management web application built with Django.
-- **Ob-morphose:** Health and sports tracking application.
-- **Tactical Shooter 2D:** 2D tactical shooting game developed with Python.
-- **Cuisine App:** Recipe management and culinary platform.
-- **Relational Database Project:** Database design, modeling, and SQL implementation.
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Django Management System](https://github.com/Alifraj/django-management-system)** | Full-stack web management platform featuring authentication, dynamic CRUD workflows, and structured backend logic. | `Python` `Django` `HTML/CSS` `SQL` |
+| **[Library Management System (Full-Stack)](https://github.com/Alifraj/library-management-fullstack-db)** | End-to-end web application for managing book catalogs, member registrations, and loan/return tracking backed by a relational database. | `JavaScript` `HTML/CSS` `SQL` |
+| **[Desktop Library Management (SQL)](https://github.com/Alifraj/desktop-library-management-sql)** | Desktop application with a modern GUI, secure password hashing (`bcrypt`), and persistent SQL storage. | `Python` `SQL` `bcrypt` |
+| **[Ob-Morphose Health & Sport](https://github.com/Alifraj/ob-morphose-health-sport)** | Interactive web platform dedicated to health monitoring, nutrition planning, and sports activity tracking. | `HTML5` `CSS3` `JavaScript` |
+| **[Culinary Recipes Web App](https://github.com/Alifraj/culinary-recipes-web-app)** | Front-end culinary platform allowing users to browse detailed recipes, explore ingredients, and submit new dishes. | `HTML5` `CSS3` `JavaScript` |
+| **[Tactical Shooter 2D](https://github.com/Alifraj/tactical-shooter-2d)** | Fast-paced 2D tactical action shooter built using OOP principles, progressive enemy waves, audio mixing, and local high-score persistence. | `Python` `Pygame` `OOP` |
+| **[Pygame 2D Shooter](https://github.com/Alifraj/pygame-2d-shooter)** | Arcade 2D space/action shooter featuring real-time collision detection, sprite management, and dynamic gameplay mechanics. | `Python` `Pygame` |
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alifraj&show_icons=true&theme=tokyonight&hide_border=true" alt="Ali Frej's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alifraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: [Ali Fraj](https://www.linkedin.com/in/ali-fraj-173b9b450/)
+
+- 💼 **LinkedIn:** [linkedin.com/in/ali-fraj-173b9b450](https://www.linkedin.com/in/ali-fraj-173b9b450/)
+- 🐙 **GitHub:** [github.com/Alifraj](https://github.com/Alifraj)
