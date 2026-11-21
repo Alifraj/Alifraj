@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Frej</h1>
-<h3 align="center">Computer Engineering Student @ École Polytechnique de Sousse | Full-Stack Web, Java & Python Developer</h3>
+<h3 align="center">Data Science & AI Engineering Student (2nd Year) @ École Polytechnique de Sousse | Python, SQL, Java & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ali-fraj-173b9b450/" target="_blank">
@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering student at **École Polytechnique de Sousse**, Tunisia.
-- 💻 Passionate about **Full-Stack Web Development**, **Object-Oriented Software (Java/Python)**, **Relational Databases**, and **2D Game Development**.
-- 🌱 Currently building scalable full-stack web applications with **Django** and exploring clean software architecture.
-- 🤝 Open to internships, technical collaborations, and software engineering projects.
+- 🎓 **2nd-year Engineering Student in Data Science & Artificial Intelligence** at **École Polytechnique de Sousse**, Tunisia (following a **2-year ICT Preparatory Cycle**).
+- 📊 Passionate about **Data Science, Artificial Intelligence, Relational Databases (SQL)**, and **Full-Stack & Object-Oriented Software Engineering (Python/Java)**.
+- 🌱 Currently building data-driven applications and scalable web systems with **Python** and **Django**.
+- 🤝 Open to internships in **Data Science, AI, Data Engineering, or Full-Stack Python Development**.
 
 ---
 
